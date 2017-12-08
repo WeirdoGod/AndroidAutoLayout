@@ -18,12 +18,16 @@
             </intent-filter>
         </activity>
 
+        <!--设计稿的尺寸 宽-->
         <meta-data
             android:name="design_width"
             android:value="1080" />
+
+        <!--设计稿的尺寸 高-->
         <meta-data
             android:name="design_height"
             android:value="1920" />
+
     </application>
 
 </manifest>
